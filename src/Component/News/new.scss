@@ -1,0 +1,32 @@
+.text_decription{
+    // font-size: 16px;
+    line-height: 24px;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin: 0 0 10px;
+}
+.btn_new {
+    padding: 5px 16px;
+    width: 120px;
+    font-size: 14px;
+    display: block;
+    border: 1px solid #d88821;
+    border-radius: 23px;
+    text-align: center;
+    transition: 0.8s;
+    text-decoration: none;
+    color: #d88821;
+    transition: 0.8s;
+  }
+.btn_new:hover {
+    background-color: #d88821;
+    text-decoration: none;
+    color: #ffffff;
+  }
+  .item_new{
+    box-shadow: 0px 0px 3px 0px #9b9191;
+
+  }

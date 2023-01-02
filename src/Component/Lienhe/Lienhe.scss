@@ -1,0 +1,27 @@
+
+   .input_contact{
+    input{
+        width: 100%;
+        border: 1px solid;
+        padding: 12px;
+    }
+   }
+  
+    .box-right {
+      li {
+        list-style: none;
+        padding: 4px 0;
+      }
+      i {
+        color: #dd8f22;
+        font-size: 18px;
+        padding: 6px 14px 0 0;
+      }
+      a {
+        display: flex;
+        align-items: flex-start;
+        font-size: 16px;
+        text-decoration: none;
+        color: #333333;
+      }
+    }
